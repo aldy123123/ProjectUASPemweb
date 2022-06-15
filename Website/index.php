@@ -149,8 +149,6 @@ if (!isset($_SESSION['username'])) {
               </div>
             </div>
           </div>
-          <p>Link Video Presentasi : </p>
-          <a href="https://drive.google.com/file/d/1gIkxU2cnnhjLBcjzicSzrIoURCLyYtgZ/view?usp=sharing">Klik Disini</a></li>
         </section>
         <section class="abuabu" id="blog">
           <div class="layar-dalam">
