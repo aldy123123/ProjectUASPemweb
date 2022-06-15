@@ -31,8 +31,8 @@ if (!isset($_SESSION['username'])) {
           <ul>
             <li><a href="#home">Home</a></li>
             <li><a href="#about">About</a></li>
-            <li><a href="#Top_Rated">Top Rated</a></li>
-            <li><a href="#popular">Popular Anime</a></li>
+            <li><a href="#Top_Rated">Top</a></li>
+            <li><a href="#popular">Popular</a></li>
             <li><a href="#team">Team</a></li>
             <li><a href="#blog">Upcoming</a></li>
             <li><a href="logout.php">Logout</a></li>
